@@ -1,2 +1,2 @@
 # tictok
-A simple tic tok game developed in python using Tkinter
+A simple tic toc toe game developed in python using Tkinter
